@@ -3,7 +3,7 @@ var sheetName = "Postagens";
 var user_id = "6005917741";
 
 var instagram_base_url = "https://www.instagram.com/graphql/query/";
-var medias_query_hash = "f2405b236d85e8296cf30347c9f08c2a";
+var medias_query_hash = "";
 
 var startDate = new Date('2024-09-01');
 var endDate = new Date('2024-09-30');

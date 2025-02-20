@@ -39,7 +39,7 @@ function fetchAndListDealsCorrect() {
   while (startDate <= finalDate) {
     const startDateString = startDate.toISOString().split('T')[0];
     const endDateString = endDate.toISOString().split('T')[0];
-    const url = `https://crm.rdstation.com/api/v1/deals?token=613662cb5bda87000b62d014&limit=200&created_at_period=true&start_date=${startDateString}&end_date=${endDateString}`;
+    const url = `https://crm.rdstation.com/api/v1/deals?token=&limit=200&created_at_period=true&start_date=${startDateString}&end_date=${endDateString}`;
 
     const response = UrlFetchApp.fetch(url, options);
     const data = JSON.parse(response.getContentText());

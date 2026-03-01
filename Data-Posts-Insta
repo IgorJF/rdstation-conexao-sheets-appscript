@@ -1,6 +1,6 @@
 var sheetName = "Postagens";
 // Id do Usuário do Instagram
-var user_id = "6005917741";
+var user_id = "";
 
 var instagram_base_url = "https://www.instagram.com/graphql/query/";
 var medias_query_hash = "";

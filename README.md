@@ -156,7 +156,4 @@ Você pode adaptar os scripts para:
 ## 👤 Autor
 
 Desenvolvido por [IgorJF](https://github.com/IgorJF)
-
----
-
-> 💬 Dúvidas ou sugestões? Abra uma [issue](https://github.com/IgorJF/rdstation-conexao-sheets-appscript/issues) no repositório.
+Documetação feita por IA.
